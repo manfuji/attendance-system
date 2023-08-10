@@ -27,6 +27,8 @@ install python pip
   │ └── ...
   └── ...
 
+  !["datasets directory image"](./datasets.png)
+
   where the person is the name of the people in the class and the images their images.
 
 - run python attendance-sys.py
