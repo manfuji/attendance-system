@@ -12,21 +12,6 @@ install python pip
 - run pip install `requirements.txt` a file in the root directory
 - create a dataset directory in the root directory with a dataset in the following format:
 
-  datasets/
-  ├── person1/
-  │ ├── image1.jpg
-  │ ├── image2.jpg
-  │ └── ...
-  ├── person2/
-  │ ├── image1.jpg
-  │ ├── image2.jpg
-  │ └── ...
-  ├── person3/
-  │ ├── image1.jpg
-  │ ├── image2.jpg
-  │ └── ...
-  └── ...
-
   !["datasets directory image"](./datasets.png)
 
   where the person is the name of the people in the class and the images their images.
